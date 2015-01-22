@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+    <img src="http://www.lorempixum.com/g/400/100"/ />
+    ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>lpixg</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <!--<scope>source.python</scope>-->
+    <!-- Optional: Description to show in the menu -->
+    <description>Lorempixel Gray</description>
+</snippet>
