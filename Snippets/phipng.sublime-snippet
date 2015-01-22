@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+<img src="http://placehold.it/350x150.png&text=Hello World">
+]]></content>
+<!-- Optional: Tab trigger to activate the snippet -->
+<tabTrigger>phipng</tabTrigger>
+<!-- Optional: Scope the tab trigger will be active in -->
+<!--<scope>source.python</scope>-->
+<!-- Optional: Description to show in the menu -->
+<description>PlaceHolder Image With Text png file.</description>
+</snippet>
